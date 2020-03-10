@@ -5,7 +5,7 @@ company_name: FrRog
 settings:
   name: Your Name
   username: yourusername
-  email: ypuremail@<domain>.com
+  email: name@yourdomain.com
   password: YourPassword
   pop:
     server: mail.frrog.com

@@ -1,18 +1,18 @@
 search_enabled: true
 remote_theme: pmarsceill/just-the-docs
 
-company_name: Company Name
+company_name: FrRog
 settings:
   name: Your Name
   username: yourusername
-  email: ypuremail@example.com
+  email: ypuremail@<domain>.com
   password: YourPassword
   pop:
-    server: mail.example.com
-    port: 110
+    server: mail.frrog.com
+    port: 143
   imap:
-    server: mail.example.com
-    port: 587
+    server: mail.frrog.com
+    port: 993
   smtp:
     server: mail.example.com
     port: 587
